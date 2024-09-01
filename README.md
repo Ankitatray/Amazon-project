@@ -1,4 +1,4 @@
-# Amazon-project
+# Amazon clone-project
 This is my first git Repository to create amazon clone project
 <br>
 Author - Ankit atray
