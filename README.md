@@ -9,6 +9,9 @@ its my first website and in this website i used HTML CSS
 ![image](https://github.com/user-attachments/assets/49a1c280-ad4b-4d5b-bacb-11d4998ad143)
 <br><br><br><br><br><br>
 ###                     in this project this type of picture used
+<br><br>
+
+<br>
 ![hero](https://github.com/user-attachments/assets/282b7ade-e946-4f34-b4e1-244973e9867f)
 ![pic](https://github.com/user-attachments/assets/30b2f18e-8d76-4e4b-93fd-e24023609629)
 ![pic1](https://github.com/user-attachments/assets/f343f0e2-bbd8-4308-a7c0-9e5e0464fe2b)
